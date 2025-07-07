@@ -42,9 +42,11 @@ function App() {
 <ProgressBar progress={75} />
 ```
 
+## Credits
+
+This project is inspired by and based on the progress bar tutorial from Codedex.
+
 ## License
 
 MIT © Pxdarkshadow
-
-```
 
